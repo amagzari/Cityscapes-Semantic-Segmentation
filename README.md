@@ -11,7 +11,7 @@ statement.
 
 ## Content
 - Report
-- 5-minute video presentation
+- 5-minute video presentation link: https://youtu.be/VWwxcjVEtTw
 - Notebook 1: Preprocessing
 - Notebook 2: Definition and trainining/validation of U-Net
 - Notebook 3: Definition and trainining/validation of UNet-CBAM
